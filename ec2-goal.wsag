@@ -17,20 +17,20 @@ xmlns:wsag="http://schemas.ggf.org/graap/2007/03/ws-agreement"
 # imports: http://qudt.org/spin/unitconversion
 
 
-	@prefix :        <http://purl.org/cloudComputing/amazonEC2#> .
-	@prefix ag:      <http://purl.org/agreements#> .
-	@prefix cloud:   <http://purl.org/cloudServices#> .
-	@prefix gr:      <http://purl.org/goodrelations/v1#> .
-	@prefix metrics:  <http://purl.org/metrics#> .
-	@prefix owl:     <http://www.w3.org/2002/07/owl#> .
-	@prefix qudt:    <http://qudt.org/schema/qudt#> .
-	@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-	@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
-	@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
-	@prefix usdl:  <http://www.linked-usdl.org/ns/usdl-core#> .
-	@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
-	
-	# baseURI: http://purl.org/cloudServices
+@prefix :        <http://purl.org/cloudComputing/amazonEC2#> .
+@prefix ag:      <http://purl.org/agreements#> .
+@prefix cloud:   <http://purl.org/cloudServices#> .
+@prefix gr:      <http://purl.org/goodrelations/v1#> .
+@prefix metrics:  <http://purl.org/metrics#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix qudt:    <http://qudt.org/schema/qudt#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:    <http://www.w3.org/2004/02/skos/core#> .
+@prefix usdl:  <http://www.linked-usdl.org/ns/usdl-core#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+
+# baseURI: http://purl.org/cloudServices
 # imports: http://purl.org/agreements
 # imports: http://purl.org/goodrelations/v1
 # imports: http://qudt.org/schema/qudt
