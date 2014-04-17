@@ -9,11 +9,14 @@ xmlns:wsag="http://schemas.ggf.org/graap/2007/03/ws-agreement"
 
 <!--
 
+%Add namespaces
+
+
 # baseURI: http://purl.org/cloudComputing/amazonEC2
 # imports: http://purl.org/cloudServices
 # imports: http://qudt.org/spin/unitconversion
 
-Meter como namespace:
+
 	@prefix :        <http://purl.org/cloudComputing/amazonEC2#> .
 	@prefix ag:      <http://purl.org/agreements#> .
 	@prefix cloud:   <http://purl.org/cloudServices#> .
@@ -54,7 +57,7 @@ Meter como namespace:
 		<wsag:All>
 		
 			<wsag:ServiceDescriptionTerm>
-				<!-- Ref: EC2.ttl -->
+				<!-- Reference to EC2.ttl -->
 			</wsag:ServiceDescriptionTerm>
 		
 		
